@@ -1,6 +1,13 @@
 # KPilot
 
 **The AI copilot for your weekly KPIs.** Upload a CSV of weekly numbers, see every brand against target in red, amber and green, and let Gemini draft the review pack: a headline, ranked risks, and follow-ups with an owner and a deadline. Edit it, then export a PDF.
+## 🚀 Live Demo
+
+**[Try KPilot Live](https://kpilot-chi.vercel.app/)**
+
+- **Frontend:** https://kpilot-chi.vercel.app/
+- **Backend API:** https://kpilot-backend.onrender.com/
+- **API Health Check:** https://kpilot-backend.onrender.com/health
 
 > **Note:** all data in the demo is synthetic sample data, generated for demonstration. It does not describe any real business.
 
