@@ -1,0 +1,97 @@
+week_start,brand,metric,actual,target
+2026-09-21,SkillfyAI,leads,1353,1400
+2026-09-21,SkillfyAI,revenue_inr,1390000,1512000
+2026-09-21,SkillfyAI,enrollments,77,84
+2026-09-21,SkillfyAI,conversion_rate,5.69,6.0
+2026-09-21,VSH7 Technologies,leads,384,380
+2026-09-21,VSH7 Technologies,revenue_inr,2035000,2052000
+2026-09-21,VSH7 Technologies,enrollments,17,17
+2026-09-21,VSH7 Technologies,conversion_rate,4.43,4.5
+2026-09-21,SharmaJEE,leads,2371,2600
+2026-09-21,SharmaJEE,revenue_inr,4770000,6435000
+2026-09-21,SharmaJEE,enrollments,107,143
+2026-09-21,SharmaJEE,conversion_rate,4.51,5.5
+2026-09-28,SkillfyAI,leads,1419,1421
+2026-09-28,SkillfyAI,revenue_inr,1467000,1535000
+2026-09-28,SkillfyAI,enrollments,83,85
+2026-09-28,SkillfyAI,conversion_rate,5.85,6.0
+2026-09-28,VSH7 Technologies,leads,383,384
+2026-09-28,VSH7 Technologies,revenue_inr,2025000,2074000
+2026-09-28,VSH7 Technologies,enrollments,17,17
+2026-09-28,VSH7 Technologies,conversion_rate,4.44,4.5
+2026-09-28,SharmaJEE,leads,2505,2652
+2026-09-28,SharmaJEE,revenue_inr,5141000,6564000
+2026-09-28,SharmaJEE,enrollments,111,146
+2026-09-28,SharmaJEE,conversion_rate,4.43,5.5
+2026-10-05,SkillfyAI,leads,1488,1442
+2026-10-05,SkillfyAI,revenue_inr,1633000,1557000
+2026-10-05,SkillfyAI,enrollments,89,87
+2026-10-05,SkillfyAI,conversion_rate,5.98,6.0
+2026-10-05,VSH7 Technologies,leads,377,388
+2026-10-05,VSH7 Technologies,revenue_inr,2011000,2095000
+2026-10-05,VSH7 Technologies,enrollments,17,17
+2026-10-05,VSH7 Technologies,conversion_rate,4.51,4.5
+2026-10-05,SharmaJEE,leads,2632,2705
+2026-10-05,SharmaJEE,revenue_inr,5388000,6695000
+2026-10-05,SharmaJEE,enrollments,119,149
+2026-10-05,SharmaJEE,conversion_rate,4.52,5.5
+2026-10-12,SkillfyAI,leads,1547,1464
+2026-10-12,SkillfyAI,revenue_inr,1695000,1581000
+2026-10-12,SkillfyAI,enrollments,94,88
+2026-10-12,SkillfyAI,conversion_rate,6.08,6.0
+2026-10-12,VSH7 Technologies,leads,373,392
+2026-10-12,VSH7 Technologies,revenue_inr,1883000,2117000
+2026-10-12,VSH7 Technologies,enrollments,16,18
+2026-10-12,VSH7 Technologies,conversion_rate,4.29,4.5
+2026-10-12,SharmaJEE,leads,2790,2759
+2026-10-12,SharmaJEE,revenue_inr,5726000,6829000
+2026-10-12,SharmaJEE,enrollments,128,152
+2026-10-12,SharmaJEE,conversion_rate,4.59,5.5
+2026-10-19,SkillfyAI,leads,1551,1486
+2026-10-19,SkillfyAI,revenue_inr,1756000,1605000
+2026-10-19,SkillfyAI,enrollments,96,89
+2026-10-19,SkillfyAI,conversion_rate,6.19,6.0
+2026-10-19,VSH7 Technologies,leads,364,395
+2026-10-19,VSH7 Technologies,revenue_inr,1739000,2133000
+2026-10-19,VSH7 Technologies,enrollments,15,18
+2026-10-19,VSH7 Technologies,conversion_rate,4.12,4.5
+2026-10-19,SharmaJEE,leads,2972,2814
+2026-10-19,SharmaJEE,revenue_inr,6133000,6965000
+2026-10-19,SharmaJEE,enrollments,133,155
+2026-10-19,SharmaJEE,conversion_rate,4.48,5.5
+2026-10-26,SkillfyAI,leads,1631,1508
+2026-10-26,SkillfyAI,revenue_inr,1813000,1629000
+2026-10-26,SkillfyAI,enrollments,99,90
+2026-10-26,SkillfyAI,conversion_rate,6.07,6.0
+2026-10-26,VSH7 Technologies,leads,357,399
+2026-10-26,VSH7 Technologies,revenue_inr,1611000,2155000
+2026-10-26,VSH7 Technologies,enrollments,14,18
+2026-10-26,VSH7 Technologies,conversion_rate,3.92,4.5
+2026-10-26,SharmaJEE,leads,3049,2871
+2026-10-26,SharmaJEE,revenue_inr,6030000,7106000
+2026-10-26,SharmaJEE,enrollments,132,158
+2026-10-26,SharmaJEE,conversion_rate,4.33,5.5
+2026-11-02,SkillfyAI,leads,1612,1531
+2026-11-02,SkillfyAI,revenue_inr,1819000,1653000
+2026-11-02,SkillfyAI,enrollments,102,92
+2026-11-02,SkillfyAI,conversion_rate,6.33,6.0
+2026-11-02,VSH7 Technologies,leads,348,403
+2026-11-02,VSH7 Technologies,revenue_inr,1582000,2176000
+2026-11-02,VSH7 Technologies,enrollments,14,18
+2026-11-02,VSH7 Technologies,conversion_rate,4.02,4.5
+2026-11-02,SharmaJEE,leads,3215,2928
+2026-11-02,SharmaJEE,revenue_inr,6267000,7247000
+2026-11-02,SharmaJEE,enrollments,136,161
+2026-11-02,SharmaJEE,conversion_rate,4.23,5.5
+2026-11-09,SkillfyAI,leads,1713,1554
+2026-11-09,SkillfyAI,revenue_inr,1816000,1678000
+2026-11-09,SkillfyAI,enrollments,99,93
+2026-11-09,SkillfyAI,conversion_rate,5.78,6.0
+2026-11-09,VSH7 Technologies,leads,344,407
+2026-11-09,VSH7 Technologies,revenue_inr,1450000,2198000
+2026-11-09,VSH7 Technologies,enrollments,13,18
+2026-11-09,VSH7 Technologies,conversion_rate,3.78,4.5
+2026-11-09,SharmaJEE,leads,3356,2987
+2026-11-09,SharmaJEE,revenue_inr,6280000,7393000
+2026-11-09,SharmaJEE,enrollments,139,164
+2026-11-09,SharmaJEE,conversion_rate,4.14,5.5

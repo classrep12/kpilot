@@ -1,0 +1,29 @@
+# Secrets (the example file is the only .env that gets committed)
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Generated output
+*.pdf
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
